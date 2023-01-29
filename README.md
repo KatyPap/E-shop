@@ -1,1 +1,1 @@
-Project for the compulsory subject of Data (CEID, Accademic year: 2021-2022). IDE used: MySQL Workbench. Contains the relational shcema and SQL code for a Streaming Service model.
+Project for the compulsory subject of Object Oriented Programming (CEID, Accademic year: 2019-2020). IDE used: BlueJ. Contains the Java code of the classes that contitute a simplified E-shop.
